@@ -1,0 +1,211 @@
+{
+    "basics": {
+      "name": "Enrique Garcia Bautista",
+      "label": "Frontend Developer con 6 años de experiencia",
+      "image": "/me.jpg",
+      "email": "garciabenrique@gmail.com",
+      "phone": "+52 5542301115",
+      "summary": "6 años de experiencia como Desarrollador Web y Mobile con Js utilizando React Js, Next Js y React Native principalmente. Vivo en CDMX, Mexico. He trabajado en diferentes entornos; desde ser freelance hasta ser SDE en Companias del ramo Ecommerce, Fintench y más.",
+      "location": {
+        "address": "",
+        "postalCode": "11000",
+        "city": "CDMX",
+        "countryCode": "MX",
+        "region": "México"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "enrique",
+          "url": "https://www.linkedin.com/in/enrique-garcia-bautista/"
+        },
+        {
+          "network": "GitHub",
+          "username": "enrique",
+          "url": "https://github.com/EnriqueGarciaB"
+        },
+        {
+          "network": "GitLab",
+          "username": "enrique",
+          "url": " https://gitlab.com/enriquegarcia"
+        },
+        {
+          "network": "Bitbucket",
+          "username": "enrique",
+          "url": "https://bitbucket.org/enriquegarciabautista/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "El Puerto de Liverpool",
+        "position": "Sr Frontend Developer",
+        "url": "",
+        "startDate": "2021-09-02",
+        "endDate": "2024-09-13",
+        "summary": "Desarrollé el portal de la marca de autos eléctricos BYD. Integre los servicios de terceros para dar soporte a las citas o pruebas de manejo del sitio web BYD. Colaboré en otros proyectos del Ecommerce de la compania.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Gonet",
+        "position": "Ssr Frontend Developer (Aeroméxico)",
+        "url": "",
+        "startDate": "2021-01-01",
+        "endDate": "2021-07-01",
+        "summary": "Desarrollé features para el portal Aeroméxico, principalmente en el módulo de upgrade para los vuelos reservados. Integre los servicios para mejorar la actualizacion, cambios o cancelaciones en las reservas de los vuelos. Colaboré en otros modulos del sitio web de Aeroméxico.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "GoNet",
+        "position": "Ssr Frontend Developer (Starbucks MX - CL)",
+        "url": "",
+        "startDate": "2021-01-01",
+        "endDate": "2021-07-01",
+        "summary": "Desarrollé features para el portal Starbucks MX. Lideree el desarrollo del sitio Starbucks CL. Integre los servicios para el sitio Starbucks CL.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Axity",
+        "position": "React Native Developer",
+        "url": "",
+        "startDate": "2019-12-01",
+        "endDate": "2020-12-01",
+        "summary": "Desarrollé una app bancaria similar a MercadoPago. Integré los servicios bancarios para hacer en tiempo real todo el cash-in y el cash-out de los clientes. Adapté el UX/UI a ambos sistemas operativos (Android - iOS)",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "ClaroMúsica",
+        "position": "Jr Frontend Developer",
+        "url": "",
+        "startDate": "2018-01-01",
+        "endDate": "2019-07-01",
+        "summary": "Desarrollé features para el portal ClaroMúsica en México. Desarrollé features para el portal pero en paises europeos. Integré los servicios para las traducciones y contenido del portal.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "Tecnológico de Estudios Superiores de Cuautitlan Izcalli",
+      "url": "",
+      "area": "Ingeniero en Sistemas Computacionales",
+      "studyType": "Bachelor",
+      "startDate": "2013-01-01",
+      "endDate": "2018-01-01",
+      "score": "85.3"
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Amateur",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Amateur",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Intermedio",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }]
+  }
