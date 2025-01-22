@@ -5,7 +5,7 @@
       "image": "/me.jpg",
       "email": "garciabenrique@gmail.com",
       "phone": "+52 5542301115",
-      "summary": "6 años de experiencia como Desarrollador Web y Mobile con Js utilizando React Js, Next Js y React Native principalmente. Vivo en CDMX, Mexico. He trabajado en diferentes entornos; desde ser freelance hasta ser SDE en Companias del ramo Ecommerce, Fintench y más.",
+      "summary": "6 años de experiencia como Dev Web utilizando React Js/Next Js y Dev Mobile utilizando React Native principalmente. Vivo en CDMX, Mexico. He trabajado en diferentes entornos; desde ser freelance hasta ser SDE en compañias del ramo Ecommerce, Fintech y más.",
       "location": {
         "address": "",
         "postalCode": "11000",
@@ -18,21 +18,6 @@
           "network": "LinkedIn",
           "username": "enrique",
           "url": "https://www.linkedin.com/in/enrique-garcia-bautista/"
-        },
-        {
-          "network": "GitHub",
-          "username": "enrique",
-          "url": "https://github.com/EnriqueGarciaB"
-        },
-        {
-          "network": "GitLab",
-          "username": "enrique",
-          "url": " https://gitlab.com/enriquegarcia"
-        },
-        {
-          "network": "Bitbucket",
-          "username": "enrique",
-          "url": "https://bitbucket.org/enriquegarciabautista/"
         }
       ]
     },
