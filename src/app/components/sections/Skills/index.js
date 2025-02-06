@@ -10,7 +10,16 @@ const SkillsSection = () => {
     <Section title="Habilidades">
       <ul>
         {skills.map(({ name }) => {
-          const iconName = name === "Next.js" ? "next" : name.toLowerCase();
+          const iconName =
+            name === "Next Js"
+              ? "next"
+              : name === "React Native"
+              ? "reactnative"
+              : name === "Node Js"
+              ? "node"
+              : name === "React Js"
+              ? "react"
+              : name.toLowerCase();
           const iconPath = `/icons/${iconName}.svg`;
 
           return (

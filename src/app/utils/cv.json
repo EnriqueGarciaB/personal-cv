@@ -5,7 +5,7 @@
       "image": "/me.jpg",
       "email": "garciabenrique@gmail.com",
       "phone": "+52 5542301115",
-      "summary": "6 años de experiencia como Dev Web utilizando React Js/Next Js y Dev Mobile utilizando React Native principalmente. Vivo en CDMX, Mexico. He trabajado en diferentes entornos; desde ser freelance hasta ser SDE en compañias del ramo Ecommerce, Fintech y más.",
+      "summary": "6 años de experiencia como Dev Web utilizando React Js/Next Js y Dev Mobile utilizando React Native principalmente. Vivo en CDMX, México. He trabajado en diferentes entornos; desde ser freelance hasta ser SDE en compañias del ramo Ecommerce, Fintech y más.",
       "location": {
         "address": "",
         "postalCode": "11000",
@@ -95,6 +95,41 @@
     }],
     "skills": [
       {
+        "name": "Javascript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Typescript",
+        "level": "Amateur",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Next Js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React Js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "React Native",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Mobile", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
         "name": "HTML",
         "level": "Master",
         "keywords": [
@@ -109,10 +144,10 @@
         ]
       },
       {
-        "name": "JavaScript",
-        "level": "Avanzado",
+        "name": "Sass",
+        "level": "Master",
         "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
       },
       {
@@ -123,17 +158,31 @@
         ]
       },
       {
-        "name": "TypeScript",
-        "level": "Amateur",
+        "name": "Bootstrap",
+        "level": "Avanzado",
         "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "CICD", "DevOps"
         ]
       },
       {
         "name": "Node",
         "level": "Amateur",
         "keywords": [
-          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+          "Desarrollo Backend", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "Express",
+        "level": "Amateur",
+        "keywords": [
+          "Desarrollo Backend", "Backend", "JavaScript", "Servidor"
         ]
       },
       {
@@ -141,6 +190,20 @@
         "level": "Intermedio",
         "keywords": [
           "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Mongo",
+        "level": "Intermedio",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Jira",
+        "level": "Avanzado",
+        "keywords": [
+          "Documentacion", "Colaboración", "Gestion"
         ]
       },
       {
@@ -158,17 +221,38 @@
         ]
       },
       {
-        "name": "Next.js",
+        "name": "GitLab",
         "level": "Avanzado",
         "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
       },
       {
-        "name": "React",
+        "name": "Bitbucket",
         "level": "Avanzado",
         "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Confluence",
+        "level": "Avanzado",
+        "keywords": [
+          "Documentacion", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "Storybook",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "UI"
+        ]
+      },
+      {
+        "name": "Postman",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "API"
         ]
       }
     ],

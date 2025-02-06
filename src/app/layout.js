@@ -1,9 +1,11 @@
+import { Analytics } from "@vercel/analytics/next";
+
 export default function Layout({ children }) {
-    return (
-      <html lang="es">
-        <head />
-        <body>{children}</body>
-      </html>
-    );
-  }
-  
+  return (
+    <>
+      {children}
+      <Analytics />
+    </>
+  );
+}
+
