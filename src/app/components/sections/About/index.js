@@ -7,7 +7,7 @@ const AboutMe = () => {
   const { summary } = basics;
 
   return (
-    <Section title="Sobre mí">
+    <Section title="About me">
       <p>{summary}</p>
     </Section>
   );

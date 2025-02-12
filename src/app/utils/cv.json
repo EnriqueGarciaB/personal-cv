@@ -1,11 +1,11 @@
 {
     "basics": {
       "name": "Enrique Garcia Bautista",
-      "label": "Frontend Developer con 6 años de experiencia",
+      "label": "Frontend Web (MERN) & Mobile Developer.",
       "image": "/me.jpg",
       "email": "garciabenrique@gmail.com",
       "phone": "+52 5542301115",
-      "summary": "6 años de experiencia como Dev Web utilizando React Js/Next Js y Dev Mobile utilizando React Native principalmente. Vivo en CDMX, México. He trabajado en diferentes entornos; desde ser freelance hasta ser SDE en compañias del ramo Ecommerce, Fintech y más.",
+      "summary": "Experience as a Web Developer using React Js/Next Js primarly; also with MERN Stack and Mobile Developer using React Native. I live in CDMX, Mexico. I have worked in different environments; from being a freelancer to being a SDE in companies in the Ecommerce, Fintech and more sectors.",
       "location": {
         "address": "",
         "postalCode": "11000",
@@ -28,7 +28,7 @@
         "url": "",
         "startDate": "2021-09-02",
         "endDate": "2024-09-13",
-        "summary": "Desarrollé el portal de la marca de autos eléctricos BYD. Integre los servicios de terceros para dar soporte a las citas y pruebas de manejo del sitio web BYD. Colaboré en otros proyectos del Ecommerce de la compañiia.",
+        "summary": "Developed the BYD electric car brand portal. I integrated third-party services to support BYD website appointments and test drives. I collaborated on other company e-commerce projects.",
         "highlights": [
           "Started the company"
         ]
@@ -39,7 +39,7 @@
         "url": "",
         "startDate": "2021-01-01",
         "endDate": "2021-07-01",
-        "summary": "Desarrollé features para el portal Aeroméxico, principalmente en el módulo de upgrade para los vuelos reservados. Integre los servicios para mejorar la actualizacion, cambios o cancelaciones en las reservas de los vuelos. Colaboré en otros modulos del sitio web de Aeroméxico.",
+        "summary": "Developed features for the Aeroméxico portal, mainly in the upgrade module for booked flights. I integrated services to improve upgrades, changes or cancellations in flight reservations. I collaborated on other modules of the Aeroméxico website.",
         "highlights": [
           "Started the company"
         ]
@@ -50,7 +50,7 @@
         "url": "",
         "startDate": "2021-01-01",
         "endDate": "2021-07-01",
-        "summary": "Desarrollé features para el portal Starbucks MX. Lideree el desarrollo del sitio Starbucks CL. Integre los servicios para el sitio Starbucks CL.",
+        "summary": "Developed features for the Starbucks MX portal. Led the development of the Starbucks CL site. Integrated services for the Starbucks CL site.",
         "highlights": [
           "Started the company"
         ]
@@ -61,7 +61,7 @@
         "url": "",
         "startDate": "2019-12-01",
         "endDate": "2020-12-01",
-        "summary": "Desarrollé una app bancaria similar a MercadoPago. Integré los servicios bancarios para hacer en tiempo real todo el cash-in y el cash-out de los clientes. Adapté el UX/UI a ambos sistemas operativos (Android - iOS)",
+        "summary": "Developed a banking app similar to MercadoPago. I integrated the banking services to do all the cash-in and cash-out of the clients in real time. I adapted the UX/UI to both operating systems (Android - iOS).",
         "highlights": [
           "Started the company"
         ]
@@ -72,7 +72,7 @@
         "url": "",
         "startDate": "2018-01-01",
         "endDate": "2019-07-01",
-        "summary": "Desarrollé features para el portal ClaroMúsica en México. Desarrollé features para el portal pero en paises europeos. Integré los servicios para las traducciones y contenido del portal.",
+        "summary": "Developed features for the ClaroMúsica portal in Mexico. I developed features for the portal but in European countries. I integrated the services for the portal's translations and content.",
         "highlights": [
           "Started the company"
         ]
@@ -81,7 +81,7 @@
     "education": [{
       "institution": "Tecnológico de Estudios Superiores de Cuautitlan Izcalli",
       "url": "",
-      "area": "Ingeniero en Sistemas Computacionales",
+      "area": "Computer Systems Engineer",
       "studyType": "Bachelor",
       "startDate": "2013-01-01",
       "endDate": "2018-01-01",

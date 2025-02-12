@@ -30,7 +30,7 @@ const printInfo = [
   .filter(Boolean)
   .join(" • ");
 
-const Hero = () => {
+const Perfil = () => {
   return (
     <Section>
       <div className="container">
@@ -44,13 +44,13 @@ const Hero = () => {
           <footer className="print">{printInfo}</footer>
           <footer className="no-print">
             {email && (
-              <a href={`mailto:${email}`} title={`Enviar un correo a ${name}`}>
-                <Image src={mailIcon} alt="Correo" width={18} height={18} />
+              <a href={`mailto:${email}`} title={`Send email to ${name}`}>
+                <Image src={mailIcon} alt="Mail" width={18} height={18} />
               </a>
             )}
             {phone && (
-              <a href={`tel:${phone}`} title={`Llamar a ${name}`}>
-                <Image src={phoneIcon} alt="Teléfono" width={18} height={18} />
+              <a href={`tel:${phone}`} title={`Call ${name}`}>
+                <Image src={phoneIcon} alt="Cellphone" width={18} height={18} />
               </a>
             )}
             {profiles.map(({ network, url }) => {
@@ -61,7 +61,7 @@ const Hero = () => {
                     key={network}
                     href={url}
                     target="_blank"
-                    title={`Visitar el perfil de ${name} en ${network}`}
+                    title={`Visit ${name}'s on ${network}`}
                   >
                     <Image src={icon} alt={network} width={18} height={18} />
                   </a>
@@ -78,4 +78,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Perfil;

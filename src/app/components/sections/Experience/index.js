@@ -8,13 +8,13 @@ import "./index.css";
 
 const WorkExperience = () => {
   return (
-    <Section title="Experiencia laboral">
+    <Section title="Work experience">
       <ul>
         {work?.map(({ name, startDate, endDate, position, summary, url }) => {
           const startYear = new Date(`${startDate}T00:00:00Z`).getUTCFullYear();
           const endYear = endDate
             ? new Date(`${endDate}T00:00:00Z`).getUTCFullYear()
-            : "Actual";
+            : "Currently";
 
           return (
             <li key={name}>

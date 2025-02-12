@@ -7,7 +7,7 @@ import "./index.css";
 
 const SkillsSection = () => {
   return (
-    <Section title="Habilidades">
+    <Section title="Skills">
       <ul>
         {skills.map(({ name }) => {
           const iconName =

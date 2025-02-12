@@ -5,14 +5,14 @@ import { education } from "../../../utils/cv";
 
 const Education = () => {
   return (
-    <Section title="Educación">
+    <Section title="Education">
       <ul style={styles.ul}>
         {education.map(({ institution, startDate, endDate, area }, index) => {
           const startYear = new Date(`${startDate}T00:00:00Z`).getUTCFullYear();
           const endYear =
             endDate != null
               ? new Date(`${endDate}T00:00:00Z`).getUTCFullYear()
-              : "Actual";
+              : "Currently";
 
           const years = `${startYear} - ${endYear}`;
 

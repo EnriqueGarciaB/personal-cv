@@ -12,7 +12,7 @@ import { basics } from "./utils/cv.json";
 const { name, label } = basics;
 export default function Home() {
   return (
-    <Layout title={`Portafolio de ${name} - ${label}`}>
+    <Layout title={`Portfolio of ${name} - ${label}`}>
       <main>
         <Perfil />
         <About />
