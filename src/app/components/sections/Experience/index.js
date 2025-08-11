@@ -10,7 +10,7 @@ const WorkExperience = () => {
   return (
     <Section title="Work experience">
       <ul>
-        {work?.map(({ name, startDate, endDate, position, summary, url }) => {
+        {work?.map(({ name, startDate, endDate, position, summary, url, highlights }) => {
           const startYear = new Date(`${startDate}T00:00:00Z`).getUTCFullYear();
           const endYear = endDate
             ? new Date(`${endDate}T00:00:00Z`).getUTCFullYear()
@@ -45,6 +45,15 @@ const WorkExperience = () => {
                 </header>
                 <footer>
                   <p>{summary}</p>
+                </footer>
+                <footer className="highlights-container">
+                  {highlights && highlights.length > 0 && (
+                    <ul className="highlights">
+                      {highlights.map((item, index) => (
+                        <li key={index}>{item}</li>
+                      ))}
+                    </ul>
+                  )}
                 </footer>
               </article>
             </li>

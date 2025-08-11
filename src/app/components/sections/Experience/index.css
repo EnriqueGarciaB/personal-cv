@@ -22,6 +22,27 @@ article h4 {
   font-weight: 400;
 }
 
+.highlights-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.highlights {
+  gap: 10px !important
+}
+
+.highlights-container ul {
+  margin-bottom: .5rem;
+}
+
+.highlights-container li {
+  margin-top: .25rem;
+  list-style: inside;
+  width: 500px;
+}
+
+
 header {
   display: flex;
   justify-content: space-between;

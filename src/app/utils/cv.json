@@ -1,84 +1,95 @@
 {
-    "basics": {
-      "name": "Enrique Garcia Bautista",
-      "label": "Frontend Web (MERN) & Mobile Developer.",
-      "image": "/me.jpg",
-      "email": "garciabenrique@gmail.com",
-      "phone": "+52 5542301115",
-      "summary": "Experience as a Web Developer using React Js/Next Js primarly; also with MERN Stack and Mobile Developer using React Native. I live in CDMX, Mexico. I have worked in different environments; from being a freelancer to being a SDE in companies in the Ecommerce, Fintech and more sectors.",
-      "location": {
-        "address": "",
-        "postalCode": "11000",
-        "city": "CDMX",
-        "countryCode": "MX",
-        "region": "México"
-      },
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "enrique",
-          "url": "https://www.linkedin.com/in/enrique-garcia-bautista/"
-        }
+  "basics": {
+    "name": "Enrique Garcia Bautista",
+    "label": "Frontend Web (MERN) & Mobile Developer.",
+    "image": "/me.jpg",
+    "email": "garciabenrique@gmail.com",
+    "phone": "+52 5542301115",
+    "summary": "Experience as a Web Developer using React Js/Next Js primarly; also with MERN Stack and Mobile Developer using React Native. I live in CDMX, Mexico. I have worked in different environments; from being a freelancer to being a SDE in companies in the Ecommerce, Fintech and more sectors.",
+    "location": {
+      "address": "",
+      "postalCode": "11000",
+      "city": "CDMX",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "enrique",
+        "url": "https://www.linkedin.com/in/enrique-garcia-bautista/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "El Puerto de Liverpool",
+      "position": "Sr. Frontend Developer",
+      "url": "https://www.liverpool.com.mx/",
+      "startDate": "2021-09-02",
+      "endDate": "2024-09-13",
+      "summary": "Led development of BYD electric car brand portal, integrating third-party services for appointment scheduling and test drives. Contributed to multiple e-commerce projects to enhance customer experience and performance.",
+      "highlights": [
+        "Optimized site performance, reducing page load times by 25%",
+        "Integrated third-party APIs for appointment and test drive bookings.",
+        "Collaborated with backend and UX teams to deliver seamless features."
       ]
     },
-    "work": [
-      {
-        "name": "El Puerto de Liverpool",
-        "position": "Sr. Frontend Developer",
-        "url": "",
-        "startDate": "2021-09-02",
-        "endDate": "2024-09-13",
-        "summary": "Developed the BYD electric car brand portal. I integrated third-party services to support BYD website appointments and test drives. I collaborated on other company e-commerce projects.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Gonet",
-        "position": "Ssr. Frontend Developer (Aeroméxico)",
-        "url": "",
-        "startDate": "2021-01-01",
-        "endDate": "2021-07-01",
-        "summary": "Developed features for the Aeroméxico portal, mainly in the upgrade module for booked flights. I integrated services to improve upgrades, changes or cancellations in flight reservations. I collaborated on other modules of the Aeroméxico website.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "GoNet",
-        "position": "Ssr. Frontend Developer (Starbucks MX - CL)",
-        "url": "",
-        "startDate": "2021-01-01",
-        "endDate": "2021-07-01",
-        "summary": "Developed features for the Starbucks MX portal. Led the development of the Starbucks CL site. Integrated services for the Starbucks CL site.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Axity",
-        "position": "React Native Developer",
-        "url": "",
-        "startDate": "2019-12-01",
-        "endDate": "2020-12-01",
-        "summary": "Developed a banking app similar to MercadoPago. I integrated the banking services to do all the cash-in and cash-out of the clients in real time. I adapted the UX/UI to both operating systems (Android - iOS).",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "ClaroMúsica",
-        "position": "Jr Frontend Developer",
-        "url": "",
-        "startDate": "2018-01-01",
-        "endDate": "2019-07-01",
-        "summary": "Developed features for the ClaroMúsica portal in Mexico. I developed features for the portal but in European countries. I integrated the services for the portal's translations and content.",
-        "highlights": [
-          "Started the company"
-        ]
-      }
-    ],
-    "education": [{
+    {
+      "name": "Gonet",
+      "position": "Ssr. Frontend Developer (Aeroméxico)",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-07-01",
+      "summary": "Developed key features for Aeroméxico's upgrade module, improving flight booking management. Integrated services to streamline flight upgrades, changes, and cancellations, enhancing user satisfaction.",
+      "highlights": [
+        "Implemented upgrade module features increasing customer self-service options.",
+        "Integrated backend services to optimize reservation management.",
+        "Collaborated with QA and design teams to ensure high-quality releases."
+      ]
+    },
+    {
+      "name": "GoNet",
+      "position": "Ssr. Frontend Developer (Starbucks MX - CL)",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-07-01",
+      "summary": "Led frontend development for Starbucks MX portal and Starbucks CL site. Integrated various services to ensure smooth operation and localization across markets.",
+      "highlights": [
+        "Led development of Starbucks CL site with responsive design.",
+        "Integrated APIs for content management and localization.",
+        "Collaborated with cross-country teams to align project goals."
+      ]
+    },
+    {
+      "name": "Axity",
+      "position": "React Native Developer",
+      "url": "",
+      "startDate": "2019-12-01",
+      "endDate": "2020-12-01",
+      "summary": "Developed a real-time banking app similar to MercadoPago using React Native. Integrated banking services for cash-in and cash-out operations and adapted UI/UX for Android and iOS platforms.",
+      "highlights": [
+        "Built core banking functionalities supporting real-time transactions."     ,
+        "Optimized UI/UX for cross-platform mobile performance.",
+        "Collaborated with backend teams to ensure secure API integration."
+      ]
+    },
+    {
+      "name": "ClaroMúsica",
+      "position": "Jr Frontend Developer",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2019-07-01",
+      "summary": "Developed features for the ClaroMúsica portal in Mexico and supported European country versions. Integrated services for translations and dynamic content management.",
+      "highlights": [
+        "Implemented new portal features improving user engagement.",
+        "Integrated translation and content management APIs.",
+        "Worked with international teams to localize portal content."
+      ]
+    }
+  ],
+  "education": [
+    {
       "institution": "Tecnológico de Estudios Superiores de Cuautitlan Izcalli",
       "url": "",
       "area": "Computer Systems Engineer",
@@ -86,195 +97,262 @@
       "startDate": "2013-01-01",
       "endDate": "2018-01-01",
       "score": "85.3"
-    }],
-    "certificates": [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "skills": [
-      {
-        "name": "Javascript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
-      },
-      {
-        "name": "Typescript",
-        "level": "Amateur",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
-        "name": "Next Js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React Js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
-      },
-      {
-        "name": "React Native",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Mobile", "Frontend", "JavaScript Library", "UI"
-        ]
-      },
-      {
-        "name": "HTML",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "CSS",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "Sass",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "Tailwind",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "Bootstrap",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "Docker",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web", "CICD", "DevOps"
-        ]
-      },
-      {
-        "name": "Node",
-        "level": "Amateur",
-        "keywords": [
-          "Desarrollo Backend", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "Express",
-        "level": "Amateur",
-        "keywords": [
-          "Desarrollo Backend", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "MySQL",
-        "level": "Intermedio",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
-      },
-      {
-        "name": "Mongo",
-        "level": "Intermedio",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
-      },
-      {
-        "name": "Jira",
-        "level": "Avanzado",
-        "keywords": [
-          "Documentacion", "Colaboración", "Gestion"
-        ]
-      },
-      {
-        "name": "Git",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
-        ]
-      },
-      {
-        "name": "GitHub",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
-      },
-      {
-        "name": "GitLab",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
-      },
-      {
-        "name": "Bitbucket",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
-      },
-      {
-        "name": "Confluence",
-        "level": "Avanzado",
-        "keywords": [
-          "Documentacion", "Colaboración", "Código Fuente"
-        ]
-      },
-      {
-        "name": "Storybook",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "UI"
-        ]
-      },
-      {
-        "name": "Postman",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "API"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "Spanish",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "English",
-        "fluency": "Advanced"
-      }
-    ],
-    "interests": [{
+    }
+  ],
+  "skills": [
+    {
+      "name": "Javascript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Typescript",
+      "level": "Amateur",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Next Js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React Js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Mobile",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Sass",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "CICD",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Amateur",
+      "keywords": [
+        "Desarrollo Backend",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "Express",
+      "level": "Amateur",
+      "keywords": [
+        "Desarrollo Backend",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Mongo",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Jira",
+      "level": "Avanzado",
+      "keywords": [
+        "Documentacion",
+        "Colaboración",
+        "Gestion"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Bitbucket",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Confluence",
+      "level": "Avanzado",
+      "keywords": [
+        "Documentacion",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "Storybook",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "UI"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "API"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
       "name": "Wildlife",
       "keywords": [
         "Ferrets",
         "Unicorns"
       ]
-    }],
-    "references": [{
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }]
-  }
+    }
+  ]
+}
