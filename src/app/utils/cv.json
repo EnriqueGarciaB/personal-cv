@@ -23,17 +23,6 @@
     },
     "work": [
       {
-        "name": "Capgemini",
-        "position": "SDE",
-        "url": "",
-        "startDate": "2025-02-24",
-        "endDate": "",
-        "summary": "Software development for MetLife focused on life insurance and policies using mainly languages such as Js, Ts, Java and frameworks such as Next js, React Js, Spring Boot. Migration and updating of legacy code in internal systems to newer versions in accordance with the defined architecture.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
         "name": "El Puerto de Liverpool",
         "position": "Sr. Frontend Developer",
         "url": "",
