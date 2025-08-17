@@ -39,7 +39,10 @@ article h4 {
 .highlights-container li {
   margin-top: .25rem;
   list-style: inside;
-  width: 500px;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  word-break: break-word;
 }
 
 

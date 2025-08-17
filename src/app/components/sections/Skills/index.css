@@ -1,8 +1,10 @@
 ul {
-  display: inline-flex;
+  display: flex;
   gap: 8px;
   flex-wrap: wrap;
   flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .iconSkill {
