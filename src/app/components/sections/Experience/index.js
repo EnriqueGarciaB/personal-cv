@@ -11,8 +11,8 @@ const WorkExperience = () => {
     <Section title="Work experience">
       <ul>
         {work?.map(({ name, startDate, endDate, position, summary, url, highlights }) => {
-          const startYear = new Date(`${startDate}T00:00:00Z`).getUTCFullYear();
-          const endYear = endDate
+          const startYear = startDate ? new Date(`${startDate}T00:00:00Z`).getUTCFullYear() : "";
+          const endYear = endDate && endDate.trim() !== "" 
             ? new Date(`${endDate}T00:00:00Z`).getUTCFullYear()
             : "Currently";
 
@@ -33,14 +33,24 @@ const WorkExperience = () => {
                     </h3>
                     <h4>{position}</h4>
                   </div>
-                  <div>
-                    <time dateTime={startDate} data-title={startDate}>
-                      {startYear}
-                    </time>
-                    {" - "}
-                    <time dateTime={endDate || ""} data-title={endDate}>
-                      {endYear}
-                    </time>
+                  <div className="date-container">
+                    {endDate && endDate.trim() !== "" ? (
+                      <div className="date-range">
+                        <time dateTime={startDate} data-title={startDate}>
+                          {startYear}
+                        </time>
+                        <span className="date-separator"> - </span>
+                        <time dateTime={endDate} data-title={endDate}>
+                          {endYear}
+                        </time>
+                      </div>
+                    ) : (
+                      <div className="currently-container">
+                        <time dateTime={startDate} data-title={startDate}>
+                          Currently
+                        </time>
+                      </div>
+                    )}
                   </div>
                 </header>
                 <footer>
