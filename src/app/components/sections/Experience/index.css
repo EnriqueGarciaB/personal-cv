@@ -37,6 +37,7 @@ article h4 {
 }
 
 .highlights-container li {
+  font-size: 11px;
   margin-top: .25rem;
   list-style: inside;
   width: 100%;
@@ -53,11 +54,25 @@ header {
   margin-bottom: 4px;
 }
 
-time {
-  color: #555;
-  font-size: 0.85rem;
-  min-width: 102px;
-  cursor: default;
+.date-container {
+  display: flex;
+  justify-content: flex-end;
+  min-width: 120px;
+  flex-shrink: 0;
+  font-size: 14px;
+}
+
+.date-range {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.currently-container {
+  display: flex;
+  justify-content: flex-end;
+  min-width: 120px;
 }
 
 [data-title]:hover:after {

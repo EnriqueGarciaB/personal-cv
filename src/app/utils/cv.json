@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Enrique Garcia Bautista",
-    "label": "Frontend Web (MERN) & Mobile Developer.",
+    "label": "Fullstack Developer (MERN), Software Engineer & Mobile Developer",
     "image": "/me.jpg",
     "email": "garciabenrique@gmail.com",
     "phone": "+52 5542301115",
-    "summary": "Experience as a Web Developer using React Js/Next Js primarly; also with MERN Stack and Mobile Developer using React Native. I live in CDMX, Mexico. I have worked in different environments; from being a freelancer to being a SDE in companies in the Ecommerce, Fintech and more sectors.",
+    "summary": "Experience as a Fullstack Developer using MERN stack primarly and as a FrontEnd Developer using Ts, Js, React js & Next js; as a Mobile Developer using React Native. I live in CDMX, Mexico. I have worked in different environments; from being a freelancer to being a SDE in companies in the Ecommerce, Fintech and more sectors.",
     "location": {
       "address": "",
       "postalCode": "11000",
@@ -23,12 +23,25 @@
   },
   "work": [
     {
+      "name": "Capgemini",
+      "position": "SDE",
+      "url": "",
+      "startDate": "2024-02-24",
+      "endDate": "",
+      "summary": "Lead developer focused on modernizing MetLife's internal insurance policy management systems. Spearheading major version upgrades from Java 8 to Java 17 while implementing modern architecture patterns. Utilizing React, TypeScript, and Next.js to enhance system capabilities and user interfaces. Working with Azure services to ensure robust and secure enterprise-level applications.",
+      "highlights": [
+        "Successfully led migration initiatives from Java 8 to Java 17, implementing best practices and modern architecture patterns",
+        "Improved insurance policy management systems using React, TypeScript, and Next.js, enhancing user experience and system efficiency",
+        "Designed and implemented scalable architecture solutions for internal MetLife systems, focusing on security and performance"
+      ]
+    },
+    {
       "name": "El Puerto de Liverpool",
       "position": "Sr. Frontend Developer",
       "url": "https://www.liverpool.com.mx/",
       "startDate": "2021-09-02",
       "endDate": "2024-09-13",
-      "summary": "Led development of BYD electric car brand portal, integrating third-party services for appointment scheduling and test drives. Contributed to multiple e-commerce projects to enhance customer experience and performance.",
+      "summary": "Lead development of BYD electric car brand portal, integrating third-party services for appointment scheduling and test drives. Contributed to multiple e-commerce projects to enhance customer experience and performance.",
       "highlights": [
         "Optimized site performance, reducing page load times by 25%",
         "Integrated third-party APIs for appointment and test drive bookings.",
@@ -54,7 +67,7 @@
       "url": "",
       "startDate": "2021-01-01",
       "endDate": "2021-07-01",
-      "summary": "Led frontend development for Starbucks MX portal and Starbucks CL site. Integrated various services to ensure smooth operation and localization across markets.",
+      "summary": "Lead frontend development for Starbucks MX portal and Starbucks CL site. Integrated various services to ensure smooth operation and localization across markets.",
       "highlights": [
         "Led development of Starbucks CL site with responsive design.",
         "Integrated APIs for content management and localization.",
@@ -120,7 +133,7 @@
     },
     {
       "name": "Typescript",
-      "level": "Amateur",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
