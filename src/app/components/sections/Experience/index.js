@@ -2,7 +2,8 @@ import React from "react";
 
 import Section from "../../Section";
 
-import { work } from "../../../utils/cv.json";
+import cv from "../../../utils/cv.json";
+const { work } = cv;
 
 import "./index.css";
 

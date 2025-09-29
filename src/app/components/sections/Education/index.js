@@ -1,7 +1,8 @@
 import React from "react";
 import Section from "../../Section";
 
-import { education } from "../../../utils/cv";
+import cv from "../../../utils/cv.json";
+const { education } = cv;
 
 const Education = () => {
   return (
