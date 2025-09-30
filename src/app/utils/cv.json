@@ -22,18 +22,20 @@
     ]
   },
   "work": [
-    {
-      "name": "Capgemini",
-      "position": "SDE",
-      "url": "",
-      "startDate": "2024-02-24",
-      "endDate": "",
-      "summary": "Lead developer focused on modernizing MetLife's internal insurance policy management systems. Spearheading major version upgrades from Java 8 to Java 17 while implementing modern architecture patterns. Utilizing React, TypeScript, and Next.js to enhance system capabilities and user interfaces. Working with Azure services to ensure robust and secure enterprise-level applications.",
-      "highlights": [
-        "Successfully led migration initiatives from Java 8 to Java 17, implementing best practices and modern architecture patterns",
-        "Improved insurance policy management systems using React, TypeScript, and Next.js, enhancing user experience and system efficiency",
-        "Designed and implemented scalable architecture solutions for internal MetLife systems, focusing on security and performance"
-      ]
+   {
+    "name": "Capgemini",
+    "position": "SDE",
+    "url": "https://www.capgemini.com/",
+    "startDate": "2024-02-24",
+    "endDate": "",
+    "summary": "Fullstack Developer working on modernizing MetLife's internal systems by migrating legacy monolithic applications from Java 8 to Java 17. Involved in both frontend and backend development, implementing new decoupled architectures with Java 17, React, Next.js, and Storybook. Experienced in maintaining legacy systems (Dojo, jQuery, jQuery UI, SOAP services) while driving migration initiatives to modern technologies. Using Azure DevOps pipelines, Scrum methodologies, and UCD for enterprise-level deployments.",
+    "highlights": [
+      "Led the migration of internal monolithic systems from Java 8 to Java 17, improving scalability and maintainability.",
+      "Developed and maintained legacy systems with frontend based on Dojo, jQuery, jQuery UI and backend SOAP services in Java.",
+      "Designed and implemented new decoupled architectures with Java 17, React.js, Next.js, and Storybook.",
+      "Built and maintained Azure DevOps pipelines for CI/CD, managing repositories, builds, and releases.",
+      "Collaborated under Scrum methodologies and managed deployments using UrbanCode Deploy (UCD)."
+     ]
     },
     {
       "name": "El Puerto de Liverpool",
