@@ -22,32 +22,17 @@
     ]
   },
   "work": [
-   {
-    "name": "Capgemini",
-    "position": "SDE",
-    "url": "https://www.capgemini.com/",
-    "startDate": "2024-02-24",
-    "endDate": "",
-    "summary": "Fullstack Developer working on modernizing MetLife's internal systems by migrating legacy monolithic applications from Java 8 to Java 17. Involved in both frontend and backend development, implementing new decoupled architectures with Java 17, React, Next.js, and Storybook. Experienced in maintaining legacy systems (Dojo, jQuery, jQuery UI, SOAP services) while driving migration initiatives to modern technologies. Using Azure DevOps pipelines, Scrum methodologies, and UCD for enterprise-level deployments.",
-    "highlights": [
-      "Led the migration of internal monolithic systems from Java 8 to Java 17, improving scalability and maintainability.",
-      "Developed and maintained legacy systems with frontend based on Dojo, jQuery, jQuery UI and backend SOAP services in Java.",
-      "Designed and implemented new decoupled architectures with Java 17, React.js, Next.js, and Storybook.",
-      "Built and maintained Azure DevOps pipelines for CI/CD, managing repositories, builds, and releases.",
-      "Collaborated under Scrum methodologies and managed deployments using UrbanCode Deploy (UCD)."
-     ]
-    },
     {
       "name": "El Puerto de Liverpool",
       "position": "Sr. Frontend Developer",
       "url": "https://www.liverpool.com.mx/",
       "startDate": "2021-09-02",
       "endDate": "2024-09-13",
-      "summary": "Lead development of BYD electric car brand portal, integrating third-party services for appointment scheduling and test drives. Contributed to multiple e-commerce projects to enhance customer experience and performance.",
+      "summary": "Led development across multiple core areas of Liverpool's digital presence, including e-commerce platform modules, internal development tools, and specialized projects like the BYD electric car brand portal. Focused on enhancing user experience, optimizing performance, and implementing new features across various platforms.",
       "highlights": [
-        "Optimized site performance, reducing page load times by 25%",
-        "Integrated third-party APIs for appointment and test drive bookings.",
-        "Collaborated with backend and UX teams to deliver seamless features."
+        "Developed and maintained key modules for Liverpool's e-commerce platform, improving user experience and conversion rates",
+        "Created internal development tools and systems to enhance team productivity and code quality",
+        "Led the development of BYD electric car brand portal, integrating appointment scheduling and test drive booking features"
       ]
     },
     {
@@ -84,7 +69,7 @@
       "endDate": "2020-12-01",
       "summary": "Developed a real-time banking app similar to MercadoPago using React Native. Integrated banking services for cash-in and cash-out operations and adapted UI/UX for Android and iOS platforms.",
       "highlights": [
-        "Built core banking functionalities supporting real-time transactions."     ,
+        "Built core banking functionalities supporting real-time transactions.",
         "Optimized UI/UX for cross-platform mobile performance.",
         "Collaborated with backend teams to ensure secure API integration."
       ]
